@@ -6,7 +6,7 @@
 
 点击下方按钮一键部署到 Vercel：
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/YOUR_USERNAME/google-translate-proxy-api)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/HArars/google-translate-proxy-api)
 
 **环境变量配置：**
 - `SECRET_KEY`：API 授权密钥（必需）

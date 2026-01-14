@@ -91,21 +91,6 @@ npm run dev
 
 本地服务将在 `http://localhost:3000` 启动。
 
-## 测试
-
-项目包含了两个测试文件：
-- `test.http` - 本地环境测试
-- `test-deployed.http` - 生产环境测试
-
-使用 VS Code 的 REST Client 插件可以直接运行这些测试。
-
-## 技术栈
-
-- **Express.js** - Web 框架
-- **@vitalets/google-translate-api** - Google 翻译 API
-- **dotenv** - 环境变量管理
-- **Vercel** - 部署平台
-
 ## License
 
 MIT

@@ -1,0 +1,17 @@
+{
+  "name": "google-api",
+  "version": "1.0.0",
+  "description": "Google Search API for Vercel",
+  "main": "api/translation.js",
+  "scripts": {
+    "start": "node api/translation.js",
+    "dev": "node api/translation.js"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.1"
+  }
+}
